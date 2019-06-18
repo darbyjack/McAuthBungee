@@ -1,0 +1,10 @@
+host: ""
+port: 3306
+username: ""
+password: ""
+database: ""
+pool-size: 10
+
+kick-message:
+  - "Your UUID is {uuid}"
+  - "Your token is {token}"
